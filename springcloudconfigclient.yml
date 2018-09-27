@@ -1,0 +1,5 @@
+# springcloudtraining
+test:
+  message: Moto
+server:
+  port: 2233
